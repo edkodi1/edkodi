@@ -1,5 +1,7 @@
 {"categories":{
 "סרטים אנימציה מדובבים": {"url": "https://raw.githubusercontent.com/edkodi1/edkodi/master/medubavim.txt", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/icon.png"},
 "סרטים ישראלים": {"url": "https://raw.githubusercontent.com/edkodi1/edkodi/master/medubavim.txt", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/icon.png"},
-"סרטים מדובבים": {"url": "https://raw.githubusercontent.com/edkodi1/edkodi/master/medubavim.txt", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/icon.png"}
+"סרטים מדובבים": {"url": "https://raw.githubusercontent.com/edkodi1/edkodi/master/medubavim.txt", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/icon.png"},
+"סרטים - הרחבה מקורית": {"url": "https://raw.githubusercontent.com/Jksp/jksp.repo/master/HebDub.json", "fanart": "https://github.com/Jksp/jksp.repo/raw/master/resources/fanart.jpg", "thumb": "https://github.com/Jksp/jksp.repo/raw/master/resources/icon.png"}
 }}
+
