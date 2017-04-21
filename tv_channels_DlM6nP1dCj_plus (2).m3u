@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP Hebrew's =====" tvg-logo="" group-title="Hebrew",===== VIP Hebrew's =====
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5962.ts
-#EXTINF:-1 tvg-ID="Channel1.il" tvg-name="VIP IL: Channel 1" tvg-logo="https://xiptv.com/logos/hebrew/IBAChannel1HD.png" group-title="Hebrew",VIP IL: Channel 1
+#EXTINF:-1 tvg-ID="Channel1.il" tvg-name="Channel 1" tvg-logo="https://xiptv.com/logos/hebrew/IBAChannel1HD.png" group-title="Hebrew",Channel 1
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3298.ts
-#EXTINF:-1 tvg-ID="Channel2.il" tvg-name="VIP IL: Channel 2" tvg-logo="https://xiptv.com/logos/hebrew/Channel2.png" group-title="Hebrew",VIP IL: Channel 2
+#EXTINF:-1 tvg-ID="Channel2.il" tvg-name="Channel 2" tvg-logo="https://xiptv.com/logos/hebrew/Channel2.png" group-title="Hebrew",Channel 2
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3299.ts
 #EXTINF:-1 tvg-ID="Channel9.il" tvg-name="Channel 9" tvg-logo="https://xiptv.com/logos/hebrew/Channel9.png" group-title="Hebrew",Channel 9
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6105.ts
-#EXTINF:-1 tvg-ID="Channel10.il" tvg-name="VIP IL: Channel 10" tvg-logo="https://xiptv.com/logos/hebrew/Channel10.png" group-title="Hebrew",VIP IL: Channel 10
+#EXTINF:-1 tvg-ID="Channel10.il" tvg-name="Channel 10" tvg-logo="https://xiptv.com/logos/hebrew/Channel10.png" group-title="Hebrew",Channel 10
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3300.ts
 #EXTINF:-1 tvg-ID="Channel20.il" tvg-name="Channel 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",Channel 20
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3301.ts
-#EXTINF:-1 tvg-ID="Channel23.il" tvg-name="VIP IL: Channel 22 News" tvg-logo="https://xiptv.com/logos/hebrew/Channel22News.jpg" group-title="Hebrew",VIP IL: Channel 22 News
+#EXTINF:-1 tvg-ID="Channel23.il" tvg-name="Channel 22 News" tvg-logo="https://xiptv.com/logos/hebrew/Channel22News.jpg" group-title="Hebrew",Channel 22 News
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8144.ts
 #EXTINF:-1 tvg-ID="Music24.il" tvg-name="MUSIC 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",MUSIC 24
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3303.ts
-#EXTINF:-1 tvg-ID="OneHD.il" tvg-name="VIP IL: ONE HD" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",VIP IL: ONE HD
+#EXTINF:-1 tvg-ID="OneHD.il" tvg-name="ONE HD" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",ONE HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5956.ts
-#EXTINF:-1 tvg-ID="Sport1HD.il" tvg-name="VIP IL: Sport 1 HD" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",VIP IL: Sport 1 HD
+#EXTINF:-1 tvg-ID="Sport1HD.il" tvg-name="Sport 1 HD" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",Sport 1 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5958.ts
 #EXTINF:-1 tvg-ID="Sport2.il" tvg-name="Sport 2" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",Sport 2
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5957.ts
@@ -25,7 +25,7 @@ http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5957.ts
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3341.ts
 #EXTINF:-1 tvg-ID="Sport5HD.il" tvg-name="Sport 5 HD" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",Sport 5 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5955.ts
-#EXTINF:-1 tvg-ID="Sport5Plus.il" tvg-name="Sport 5  Live HD" tvg-logo="https://xiptv.com/logos/hebrew/Sport5LiveHD.png" group-title="Hebrew",Sport 5  Live HD
+#EXTINF:-1 tvg-ID="Sport5Plus.il" tvg-name="Sport 5 Live HD" tvg-logo="https://xiptv.com/logos/hebrew/Sport5LiveHD.png" group-title="Hebrew",Sport 5 Live HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5959.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sport 5 Online" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",Sport 5 Online
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8140.ts
@@ -47,67 +47,67 @@ http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5950.ts
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5948.ts
 #EXTINF:-1 tvg-ID="yesDocu.il" tvg-name="YES DOCU HD" tvg-logo="https://xiptv.com/logos/hebrew/yesdocuhd.png" group-title="Hebrew",YES DOCU HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6099.ts
-#EXTINF:-1 tvg-ID="yesComedy.il" tvg-name="YES COMEDY HD" tvg-logo="https://xiptv.com/logos/hebrew/yescomedyhd.png" group-title="Hebrew",YES COMEDY HD
+#EXTINF:-1 tvg-ID="yesComedy.il" tvg-name="yes stars Comedy" tvg-logo="https://xiptv.com/logos/hebrew/yescomedyhd.png" group-title="Hebrew",yes stars Comedy
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5949.ts
-#EXTINF:-1 tvg-ID="yesIsraeliCinema.il" tvg-name="YES CINEMA HD" tvg-logo="https://xiptv.com/logos/hebrew/yescinemahd.png" group-title="Hebrew",YES CINEMA HD
+#EXTINF:-1 tvg-ID="yesIsraeliCinema.il" tvg-name="Israeli Cinema" tvg-logo="https://xiptv.com/logos/hebrew/yescinemahd.png" group-title="Hebrew",Israeli Cinema
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6098.ts
 #EXTINF:-1 tvg-ID="hot3.il" tvg-name="HOT3" tvg-logo="https://xiptv.com/logos/hebrew/HOT3HD.png" group-title="Hebrew", HOT3
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6106.ts
-#EXTINF:-1 tvg-ID="HotZone.il" tvg-name="VIP IL: HOT ZONE HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTZONEHD.png" group-title="Hebrew",VIP IL: HOT ZONE HD
+#EXTINF:-1 tvg-ID="HotZone.il" tvg-name="HOT ZONE HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTZONEHD.png" group-title="Hebrew",HOT ZONE HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6107.ts
-#EXTINF:-1 tvg-ID="HotDrama.il" tvg-name="VIP IL: HOT DRAMA HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTDRAMAHD.png" group-title="Hebrew",VIP IL: HOT DRAMA HD
+#EXTINF:-1 tvg-ID="HotDrama.il" tvg-name="HOT DRAMA HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTDRAMAHD.png" group-title="Hebrew",HOT DRAMA HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6108.ts
-#EXTINF:-1 tvg-ID="HotAction.il" tvg-name="HOT ACTION HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTACTIONHD.png" group-title="Hebrew",HOT ACTION HD
+#EXTINF:-1 tvg-ID="HotAction.il" tvg-name="HOT Action" tvg-logo="https://xiptv.com/logos/hebrew/HOTACTIONHD.png" group-title="Hebrew",HOT Action
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5960.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: HOT HBO HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTHBOHD.png" group-title="Hebrew",VIP IL: HOT HBO HD
+#EXTINF:-1 tvg-ID="" tvg-name="HOT HBO HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTHBOHD.png" group-title="Hebrew",HOT HBO HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6110.ts
-#EXTINF:-1 tvg-ID="HotGOLD.il" tvg-name="VIP IL: HOT GOLD HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTGOLDHD.png" group-title="Hebrew",VIP IL: HOT GOLD HD
+#EXTINF:-1 tvg-ID="HotGOLD.il" tvg-name="HOT GOLD HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTGOLDHD.png" group-title="Hebrew",HOT GOLD HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5961.ts
-#EXTINF:-1 tvg-ID="HotFun.il" tvg-name="VIP IL: HOT FUN HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTFUNHD.png" group-title="Hebrew",VIP IL: HOT FUN HD
+#EXTINF:-1 tvg-ID="HotFun.il" tvg-name="HOT FUN HD" tvg-logo="https://xiptv.com/logos/hebrew/HOTFUNHD.png" group-title="Hebrew",HOT FUN HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: HOT Comedy Central HD" tvg-logo="https://xiptv.com/logos/hebrew/hotcomedycentralhd.png" group-title="Hebrew",VIP IL: HOT Comedy Central HD
+#EXTINF:-1 tvg-ID="" tvg-name="HOT Comedy Central HD" tvg-logo="https://xiptv.com/logos/hebrew/hotcomedycentralhd.png" group-title="Hebrew",HOT Comedy Central HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: HOT Entertainment" tvg-logo="https://xiptv.com/logos/hebrew/hotentertainment.png" group-title="Hebrew",VIP IL: HOT Entertainment
+#EXTINF:-1 tvg-ID="" tvg-name="HOT Entertainment" tvg-logo="https://xiptv.com/logos/hebrew/hotentertainment.png" group-title="Hebrew"VIP IL: ,HOT Entertainment
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6102.ts
 #EXTINF:-1 tvg-ID="Channel8.il" tvg-name="HOT Channel 8" tvg-logo="https://xiptv.com/logos/hebrew/HOTChannel8.png" group-title="Hebrew",HOT Channel 8
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8141.ts
-#EXTINF:-1 tvg-ID="Zoom.il" tvg-name="VIP IL: zOOM" tvg-logo="https://xiptv.com/logos/hebrew/zOOM.png" group-title="Hebrew",VIP IL: zOOM
+#EXTINF:-1 tvg-ID="Zoom.il" tvg-name="zOOM" tvg-logo="https://xiptv.com/logos/hebrew/zOOM.png" group-title="Hebrew",zOOM
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8146.ts
-#EXTINF:-1 tvg-ID="Hop.il" tvg-name="VIP IL: HOP IL" tvg-logo="https://xiptv.com/logos/hebrew/HOPIL.png" group-title="Hebrew",VIP IL: HOP IL
+#EXTINF:-1 tvg-ID="Hop.il" tvg-name="HOP IL" tvg-logo="https://xiptv.com/logos/hebrew/HOPIL.png" group-title="Hebrew",HOP IL
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6114.ts
-#EXTINF:-1 tvg-ID="HomePlus.il" tvg-name="VIP IL: Home Plus" tvg-logo="https://xiptv.com/logos/hebrew/HomePlus.png" group-title="Hebrew",VIP IL: Home Plus
+#EXTINF:-1 tvg-ID="HomePlus.il" tvg-name="Home Plus" tvg-logo="https://xiptv.com/logos/hebrew/HomePlus.png" group-title="Hebrew",Home Plus
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6103.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Arutz HaYeladim Israel" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",VIP IL: Arutz HaYeladim Israel
+#EXTINF:-1 tvg-ID="" tvg-name="Arutz HaYeladim Israel" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",Arutz HaYeladim Israel
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3340.ts
-#EXTINF:-1 tvg-ID="Viva.il" tvg-name="VIP IL: VIVA" tvg-logo="https://xiptv.com/logos/hebrew/VIVA.png" group-title="Hebrew",VIP IL: VIVA
+#EXTINF:-1 tvg-ID="Viva.il" tvg-name="VIVA" tvg-logo="https://xiptv.com/logos/hebrew/VIVA.png" group-title="Hebrew",VIVA
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6101.ts
-#EXTINF:-1 tvg-ID="Disney.il" tvg-name="VIP IL: Disney HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",VIP IL: Disney HD
+#EXTINF:-1 tvg-ID="Disney.il" tvg-name="Disney HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",Disney HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/9574.ts
-#EXTINF:-1 tvg-ID="DisneyJunior.il" tvg-name="VIP IL: Disney Jr" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",VIP IL: Disney Jr
+#EXTINF:-1 tvg-ID="DisneyJunior.il" tvg-name="Disney Jr" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney Jr
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/9575.ts
-#EXTINF:-1 tvg-ID="Nickelodeon.il" tvg-name="VIP IL: Nickelodeon" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",VIP IL: Nickelodeon
+#EXTINF:-1 tvg-ID="Nickelodeon.il" tvg-name="Nickelodeon" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",Nickelodeon
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6112.ts
-#EXTINF:-1 tvg-ID="NickJr.il" tvg-name="VIP IL: Nick Jr" tvg-logo="https://xiptv.com/logos/hebrew/NickJr.png" group-title="Hebrew",VIP IL: Nick Jr
+#EXTINF:-1 tvg-ID="NickJr.il" tvg-name="Nick Jr" tvg-logo="https://xiptv.com/logos/hebrew/NickJr.png" group-title="Hebrew",Nick Jr
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6113.ts
-#EXTINF:-1 tvg-ID="Baby.il" tvg-name="VIP IL: Baby TV" tvg-logo="https://xiptv.com/logos/hebrew/BabyTV.png" group-title="Hebrew",VIP IL: Baby TV
+#EXTINF:-1 tvg-ID="Baby.il" tvg-name="Baby TV" tvg-logo="https://xiptv.com/logos/hebrew/BabyTV.png" group-title="Hebrew",Baby TV
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Junior" tvg-logo="https://xiptv.com/logos/hebrew/Junior.png" group-title="Hebrew",VIP IL: Junior
+#EXTINF:-1 tvg-ID="" tvg-name="Junior" tvg-logo="https://xiptv.com/logos/hebrew/Junior.png" group-title="Hebrew",Junior
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: IL Land" tvg-logo="https://xiptv.com/logos/hebrew/illand.png" group-title="Hebrew",VIP IL: IL Land
+#EXTINF:-1 tvg-ID="" tvg-name="IL Land" tvg-logo="https://xiptv.com/logos/hebrew/illand.png" group-title="Hebrew",IL Land
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/7343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: MTV Isreal" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",VIP IL: MTV Isreal
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Isreal" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",MTV Isreal
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/9573.ts
-#EXTINF:-1 tvg-ID="NatGeoHD.il" tvg-name="VIP IL: Nat Geo HD" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",VIP IL: Nat Geo HD
+#EXTINF:-1 tvg-ID="NatGeoHD.il" tvg-name="Nat Geo HD" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",Nat Geo HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/9571.ts
-#EXTINF:-1 tvg-ID="NGWild.il" tvg-name="VIP IL: National Geo Wild" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",VIP IL: National Geo Wild
+#EXTINF:-1 tvg-ID="NGWild.il" tvg-name="National Geo Wild" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",National Geo Wild
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/7344.ts
-#EXTINF:-1 tvg-ID="Discovery.il" tvg-name="VIP IL: Discovery HD" tvg-logo="https://xiptv.com/logos/hebrew/discoveryhd.png" group-title="Hebrew",VIP IL: Discovery HD
+#EXTINF:-1 tvg-ID="Discovery.il" tvg-name="Discovery HD" tvg-logo="https://xiptv.com/logos/hebrew/discoveryhd.png" group-title="Hebrew",Discovery HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/7342.ts
-#EXTINF:-1 tvg-ID="HistoryChannel.il" tvg-name="VIP IL: History HD" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",VIP IL: History HD
+#EXTINF:-1 tvg-ID="HistoryChannel.il" tvg-name="History HD" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",History HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8142.ts
-#EXTINF:-1 tvg-ID="TravelChannel.il" tvg-name="VIP IL: Travel Channel" tvg-logo="https://xiptv.com/logos/hebrew/TravelChannel.png" group-title="Hebrew",VIP IL: Travel Channel
+#EXTINF:-1 tvg-ID="TravelChannel.il" tvg-name="Travel Channel" tvg-logo="https://xiptv.com/logos/hebrew/TravelChannel.png" group-title="Hebrew",Travel Channel
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/7340.ts
-#EXTINF:-1 tvg-ID="FoodChannel.il" tvg-name="VIP IL: Food Channel" tvg-logo="https://xiptv.com/logos/hebrew/foodchannel.png" group-title="Hebrew",VIP IL: Food Channel
+#EXTINF:-1 tvg-ID="FoodChannel.il" tvg-name="Food Channel" tvg-logo="https://xiptv.com/logos/hebrew/foodchannel.png" group-title="Hebrew",Food Channel
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/7341.ts
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP Nordic =====" tvg-logo="" group-title="",===== VIP Nordic =====
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6898.ts
@@ -2323,7 +2323,7 @@ http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6679.ts
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6678.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR: AD Sport 1HD" tvg-logo="" group-title="Arabic FTA",AR: AD Sport 1HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/2759.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR: AD Sport 2HD" tvg-logo="" group-title="Arabic FTA",AR: AD Sport 2HD
+#EXTINF:-1 tvg-ID="" tvg-Oame="AR: AD Sport 2HD" tvg-logo="" group-title="Arabic FTA",AR: AD Sport 2HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/2760.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Aghani" tvg-logo="" group-title="Arabic FTA",AR: Aghani
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6557.ts
@@ -11286,4 +11286,4 @@ http://client-proiptv.com:8080/movie/DlM6nP1dCj/OhUEe9hCaY/11184.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="La La Land" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SY1000_SX675_AL_.jpg" group-title="VOD: Family",La La Land
 http://client-proiptv.com:8080/movie/DlM6nP1dCj/OhUEe9hCaY/11186.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Super 8" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NzkxMzQ5MF5BMl5BanBnXkFtZTcwNDYwMTA3NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD: Thriller",Super 8
-http://client-proiptv.com:8080/movie/DlM6nP1dCj/OhUEe9hCaY/11174.mkv
+http://client-proiptv.com:8080/movie/DlM6nP1dCj/OhUEe9hCaY/11174.mk
