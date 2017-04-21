@@ -17,9 +17,9 @@ http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8144.ts
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3303.ts
 #EXTINF:-1 tvg-ID="OneHD.il" tvg-name="VIP IL: ONE HD" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",VIP IL: ONE HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5956.ts
-#EXTINF:-1 tvg-ID="Sport1HD.il" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",VIP IL: YES SPORT1 HD
+#EXTINF:-1 tvg-ID="Sport1HD.il" tvg-name="VIP IL: Sport 1 HD" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",VIP IL: Sport 1 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5958.ts
-#EXTINF:-1 tvg-ID="Sport2.il" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",VIP IL: YES SPORT2 HD
+#EXTINF:-1 tvg-ID="Sport2.il" tvg-name="VIP IL: Sport 2" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",VIP IL: Sport 2
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5957.ts
 #EXTINF:-1 tvg-ID="FoxSportHD.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="https://xiptv.com/logos/hebrew/FoxSportHD.png" group-title="Hebrew",VIP IL: Fox Sport HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3341.ts
@@ -29,19 +29,19 @@ http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5955.ts
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5959.ts
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Sport 5 Online" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",VIP IL: Sport 5 Online
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8140.ts
-#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: yes1 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",VIP IL: YES 1 HD
+#EXTINF:-1 tvg-ID="yes1.il" tvg-name="VIP IL: yes1 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",VIP IL: yes1 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5954.ts
-#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: yes2 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes2hd.png" group-title="Hebrew",VIP IL: YES 2 HD
+#EXTINF:-1 tvg-ID="yes2.il" tvg-name="VIP IL: yes2 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes2hd.png" group-title="Hebrew",VIP IL: yes2 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5953.ts
-#EXTINF:-1 tvg-ID="yes3.il" tvg-name="VIP IL: yes3 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes3hd.png" group-title="Hebrew",VIP IL: YES 3 HD
+#EXTINF:-1 tvg-ID="yes3.il" tvg-name="VIP IL: yes3 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes3hd.png" group-title="Hebrew",VIP IL: yes3 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5952.ts
-#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: yes4 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes4hd.png" group-title="Hebrew",VIP IL: YES 4 HD
+#EXTINF:-1 tvg-ID="yes4.il" tvg-name="VIP IL: yes4 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes4hd.png" group-title="Hebrew",VIP IL: yes4 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5951.ts
-#EXTINF:-1 tvg-ID="yes5.il" tvg-name="VIP IL: yes5 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes5hd.png" group-title="Hebrew",VIP IL: YES 5 HD
+#EXTINF:-1 tvg-ID="yes5.il" tvg-name="VIP IL: yes5 HD" tvg-logo="https://xiptv.com/logos/hebrew/yes5hd.png" group-title="Hebrew",VIP IL: yes5 HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/6100.ts
-#EXTINF:-1 tvg-ID="yesOh.il" tvg-name="VIP IL: yes oh" tvg-logo="https://xiptv.com/logos/hebrew/yesohhd.png" group-title="Hebrew",VIP IL: YES OH HD
+#EXTINF:-1 tvg-ID="yesOh.il" tvg-name="VIP IL: yes oh" tvg-logo="https://xiptv.com/logos/hebrew/yesohhd.png" group-title="Hebrew",VIP IL: yes oh
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5947.ts
-#EXTINF:-1 tvg-ID="yesActionHD.il" tvg-name="VIP IL: yes Action HD" tvg-logo="https://xiptv.com/logos/hebrew/YESACTIONHD.png" group-title="Hebrew",VIP IL: YES ACTION HD
+#EXTINF:-1 tvg-ID="yesActionHD.il" tvg-name="VIP IL: yes Action HD" tvg-logo="https://xiptv.com/logos/hebrew/YESACTIONHD.png" group-title="Hebrew",VIP IL: yes Action HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5950.ts
 #EXTINF:-1 tvg-ID="yesDrama.il" tvg-name="VIP IL: YES DRAMA HD" tvg-logo="https://xiptv.com/logos/hebrew/yesdramahd.png" group-title="Hebrew",VIP IL: YES DRAMA HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5948.ts
