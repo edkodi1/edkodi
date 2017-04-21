@@ -13,7 +13,7 @@ http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3300.ts
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3301.ts
 #EXTINF:-1 tvg-ID="Channel23.il" tvg-name="VIP IL: Channel 22 News" tvg-logo="https://xiptv.com/logos/hebrew/Channel22News.jpg" group-title="Hebrew",VIP IL: Channel 22 News
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/8144.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Channel 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",VIP IL: Channel 24
+#EXTINF:-1 tvg-ID="Music24.il" tvg-name="VIP IL: MUSIC 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",VIP IL: MUSIC 24
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/3303.ts
 #EXTINF:-1 tvg-ID="OneHD.il" tvg-name="VIP IL: ONE HD" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",VIP IL: ONE HD
 http://client-proiptv.com:8080/live/DlM6nP1dCj/OhUEe9hCaY/5956.ts
